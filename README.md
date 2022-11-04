@@ -35,7 +35,7 @@ O Calendário da Copa é um projeto que exibi os jogos da copa do Catar 2022.
 
 ## 🔖 Layout
 
-Você pode acessar o projeto [AQUI](https://marianecr.github.io/nlw-copa/), ou visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/DsQ7U9oLHy14tRROsGAGoz/Calend%C3%A1rio-de-Jogos-(Community)?node-id=0%3A1/duplicate>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode acessar o projeto [AQUI](https://nlw-copa-azure.vercel.app/), ou visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/DsQ7U9oLHy14tRROsGAGoz/Calend%C3%A1rio-de-Jogos-(Community)?node-id=0%3A1/duplicate>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 👋🏼 Contatos
 
