@@ -55,3 +55,19 @@ document.querySelector("#cards").innerHTML =
     createGame("cameroon", "16:00", "brazil") +
       createGame("ghana", "12:00", "uruguay")
   );
+
+document.querySelector("#switch-theme").addEventListener("change", changeTheme);
+
+function changeTheme() {
+  const theme = document.querySelector("#switch-theme").value;
+
+  if (theme === "blue") {
+    document.body.classList.remove("green");
+    document.body.classList.add("blue");
+  } else if (theme === "green") {
+    document.body.classList.remove("blue");
+    document.body.classList.add("green");
+  } else {
+    document.body.classList.remove("blue", "green");
+  }
+}

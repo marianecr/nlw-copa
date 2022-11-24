@@ -13,7 +13,7 @@
     />
     <title>NLW - Copa do mundo</title>
   </head>
-  <body class="blue">
+  <body>
     <div id="app">
       <header>
         <img
@@ -21,6 +21,13 @@
           alt="Logo do calendário - 'nlw Copa' em amarelo acima de 'Calendário' em cinza"
         />
       </header>
+
+      <select id="switch-theme" onchange="changeTheme()">
+        <option value="yellow">Amarelo</option>
+        <option value="blue">Azul</option>
+        <option value="green">Verde</option>
+      </select>
+
       <main id="cards"></main>
     </div>
 
